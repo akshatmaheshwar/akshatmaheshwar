@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Akshat 👋
 
-<!--
-**akshatmaheshwar/akshatmaheshwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer | UQ Master of IT Graduate | Brisbane, Australia
 
-Here are some ideas to get you started:
+🔧 **Stack:** Java • Python • TypeScript • Node.js • React • SQL • Docker • Kubernetes • GCP  
+🤖 **AI/ML:** LLMs • RAG • ChromaDB • Ollama • Machine Learning Pipelines  
+🎓 **Education:** Master of IT, The University of Queensland (GPA 6/7)  
+💼 **Experience:** Software Engineer Intern @ Zoho Corporation  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- **Dungeon Scribe AI** — Distributed AI pipeline with local LLMs, ChromaDB, and RAG retrieval
+- **Cloud Parking** — Full-stack cloud app on GCP with Docker, Kubernetes, and CI/CD
+- **CheeseHunter Solver** — AI search algorithms: A*, UCS, and Markov Decision Processes
+- **MenuMate** — Full-stack restaurant ordering system with real-time workflows
+
+📫 **Reach me:** akshatmaheshwar78@gmail.com | [LinkedIn](https://linkedin.com/in/akshat-saravanan-2124ba215)
