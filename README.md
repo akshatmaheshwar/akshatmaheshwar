@@ -3,7 +3,7 @@
 Software Engineer | UQ Master of IT Graduate | Brisbane, Australia
 
 🔧 **Stack:** Java • Python • JavaScript • Node.js • React • FastAPI • Django • PostgreSQL • Docker • Kubernetes • GCP  
-🤖 **AI/ML:** LLMs • RAG • ChromaDB • Ollama • PyTorch • Reinforcement Learning • scikit-learn 
+🤖 **AI/ML:** LLMs • RAG • ChromaDB • Ollama • PyTorch • Reinforcement Learning • scikit-learn  
 🎓 **Education:** Master of IT, The University of Queensland (GPA 6/7)  
 💼 **Experience:** Software Engineer Intern @ Zoho Corporation  
 🌏 **Status:** Open to software engineering roles in Australia
